@@ -2,7 +2,8 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; background-color: #F2E2CE; border-radius: 15px; padding: 20px;">
     <tr>
       <td align="left" width="100">
-        <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" width="100" alt="left" style="border-radius: 50%;">
+        <img src="<img width="384" height="498" alt="image" src="https://github.com/user-attachments/assets/6130bd47-b2ae-4c3f-a6d7-43c9267d7d04" />
+" width="100" alt="left" style="border-radius: 50%;">
       </td>
       <td align="center">
         <h1 style="margin:0; padding:0; color: #2C3E50; font-size: 3em;">✨ Rayane Barros ✨</h1>
@@ -12,7 +13,8 @@
         </p>
       </td>
       <td align="right" width="100">
-        <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" width="100" alt="right" style="border-radius: 50%;">
+        <img src="<img width="384" height="498" alt="image" src="https://github.com/user-attachments/assets/989cd38f-ba97-4fc4-8d68-45b01df9eb46" />
+" width="100" alt="right" style="border-radius: 50%;">
       </td>
     </tr>
   </table>
