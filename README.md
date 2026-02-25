@@ -78,37 +78,42 @@
 
 <br>
 
-<div align="center" style="background-color: #F2E2CE; border-radius: 15px; padding: 20px;">
-  <h2 style="color: #2C3E50;">✨ Tech Stack</h2>
+<br>
 
-  <h3 style="color: #2C3E50;">📌 Languages & Core</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/SQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/Java-2C3E50?style=for-the-badge&logo=openjdk&logoColor=F2E2CE" />
-  </p>
-
-  <h3 style="color: #2C3E50;">📊 Data Engineering</h3>
-  <p>
-    <img src="https://img.shields.io/badge/dbt-2C3E50?style=for-the-badge&logo=dbt&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/Databricks-2C3E50?style=for-the-badge&logo=databricks&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/Spark-2C3E50?style=for-the-badge&logo=apachespark&logoColor=F2E2CE" />
-  </p>
-
-  <h3 style="color: #2C3E50;">☁️ Cloud & Infrastructure</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=amazonaws&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/Docker-2C3E50?style=for-the-badge&logo=docker&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/Linux-2C3E50?style=for-the-badge&logo=linux&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/Nginx-2C3E50?style=for-the-badge&logo=nginx&logoColor=F2E2CE" />
-  </p>
-
-  <h3 style="color: #2C3E50;">🔄 Version Control & CI/CD</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-2C3E50?style=for-the-badge&logo=git&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=F2E2CE" />
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=F2E2CE" />
-  </p>
+<div align="center">
+  <table width="100%" border="0" cellspacing="10" cellpadding="0">
+    <tr>
+      <td width="50%" valign="top" style="background-color: #F2E2CE; border-radius: 15px; padding: 20px;">
+        <h3 style="color: #2C3E50; margin-top: 0;">📌 Languages & Core</h3>
+        <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=F2E2CE" />
+        <img src="https://img.shields.io/badge/SQL-2C3E50?style=for-the-badge&logo=mysql&logoColor=F2E2CE" />
+        <img src="https://img.shields.io/badge/Java-2C3E50?style=for-the-badge&logo=openjdk&logoColor=F2E2CE" />
+      </td>
+      <td width="50%" valign="top" style="background-color: #C7D9D9; border-radius: 15px; padding: 20px;">
+        <h3 style="color: #2C3E50; margin-top: 0;">📊 Data Engineering</h3>
+        <img src="https://img.shields.io/badge/dbt-2C3E50?style=for-the-badge&logo=dbt&logoColor=F2E2CE" />
+        <img src="https://img.shields.io/badge/Databricks-2C3E50?style=for-the-badge&logo=databricks&logoColor=F2E2CE" />
+        <img src="https://img.shields.io/badge/Spark-2C3E50?style=for-the-badge&logo=apachespark&logoColor=F2E2CE" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="background-color: #F2E2CE; border-radius: 15px; padding: 20px;">
+        <h3 style="color: #2C3E50; margin-top: 0;">☁️ Cloud & Infrastructure</h3>
+        <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=amazonaws&logoColor=F2E2CE" />
+        <img src="https://img.shields.io/badge/Docker-2C3E50?style=for-the-badge&logo=docker&logoColor=F2E2CE" />
+        <img src="https://img.shields.io/badge/Linux-2C3E50?style=for-the-badge&logo=linux&logoColor=F2E2CE" />
+        <img src="https://img.shields.io/badge/Nginx-2C3E50?style=for-the-badge&logo=nginx&logoColor=F2E2CE" />
+      </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="background-color: #C7D9D9; border-radius: 15px; padding: 20px;">
+            <h3 style="color: #2C3E50; margin-top: 0;">🔄 Version Control & CI/CD</h3>
+            <img src="https://img.shields.io/badge/Git-2C3E50?style=for-the-badge&logo=git&logoColor=F2E2CE" />
+            <img src="https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=F2E2CE" />
+            <img src="https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=F2E2CE" />
+        </td>
+    </tr>
+  </table>
 </div>
 
 <br>
