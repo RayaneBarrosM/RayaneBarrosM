@@ -20,7 +20,7 @@
   <h2 style="color: #2C3E50;">✨ Tech Stack & Ferramentas</h2>
     <p>
     <tr>
-      <<!--Core-->
+      <!--Core-->
       <td width="50%" bgcolor="#F2E2CE" style="padding: 20px; border-radius: 20px;" align="center" valign="top">
         <h4 style="color: #2C3E50; margin-top: 0;"
         <img src="https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=F2E2CE" />
