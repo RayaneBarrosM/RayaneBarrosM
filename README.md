@@ -40,31 +40,23 @@
   </p>
 </div>
 
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #2C3E50;">🏆 Minhas Certificações</h2>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <!-- Badge 1 -->
-    <div style="background-color: #C7D9D9; border-radius: 15px; padding: 15px; width: 140px;">
-      <a href="https://www.credly.com/badges/a654d1f6-1f6c-4e21-ab88-28f86bab781f/public_url" target="_blank">
-        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
-             alt="AWS Cloud Practitioner" 
-             width="110" 
-             style="border-radius: 8px;" />
-        <p style="color: #2C3E50; margin: 8px 0 0 0; font-weight: bold;">
-        </p>
-      </a>
-    </div>
-    <!-- Badge 2 -->
-    <div style="background-color: #C7D9D9; border-radius: 15px; padding: 15px; width: 140px;">
-      <a href="https://www.credly.com/badges/cb2bc21d-09ff-4bb7-b0e3-87693e21b713/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" 
-             alt="Artificial Intelligence Fundamentals" 
-             width="110" 
-             style="border-radius: 8px;" />
-        <p style="color: #2C3E50; margin: 8px 0 0 0; font-weight: bold;">
-        </p>
-      </a>
-    </div>
-  </div>
+<div align="center">
+  <strong>Caso queira saber mais, clique aqui</strong>
+  </br>
+
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/rayane-barros-22a9622a5/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-2C3E50?style=for-the-badge&logo=linkedin&logoColor=C7D9D9" 
+         alt="Linkedin"
+         title="Meu Linkedin"/>
+  </a>
+  <!-- GMail  -->
+  <a href="https://mail.google.com/mail/?view=cm&to=10raybarros@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-2C3E50?style=for-the-badge&logo=gmail&logoColor=C7D9D9" 
+       alt="E-mail"
+       title="Meu E-mail"/>
+</a>
+
 </div>
+</br>
+
