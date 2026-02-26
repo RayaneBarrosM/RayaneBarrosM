@@ -5,7 +5,7 @@
   <div style="background-color: #C7D9D9; text-align: left; overflow: hidden;">
     <h3 style="color: #2C3E50; margin-top: 0;">✨ Sobre mim ✨</h3>
     <p style="color: #2C3E50; line-height: 1.6;">
-      Olá sou a Rayane, estudante de Desenvolvimento de Software com foco em <strong>Engenharia de Dados</strong>, Com certificação <strong>AWS Cloud Practitioner</strong> e experiência prática em Python e SQL, meu objetivo é construir pipelines de dados eficientes.    
+      Olá sou a Rayane, estudante de Desenvolvimento de Software com foco em <strong>Engenharia de Dados</strong>. Com certificação <strong>AWS Cloud Practitioner</strong> e experiência prática em Python e SQL, meu objetivo é construir pipelines de dados eficientes.    
     </p>
   </div>
 </div>
