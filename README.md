@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/RayaneBarrosM/assets/main/nome-da-imagem.png" width="80" alt="flores azuis">
   
   <h1>✨ Rayane Barros ✨</h1>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" alt="right" />  <p><strong>Data Engineer in the making</strong></p>
+  <img src="https://media.tenor.com/12482122854321811975/[-EMBEDDED CONTENT-]" width="80" alt="flores e borboletas">
+  <p><strong>Data Engineer in the making</strong></p>
   <p>2026 focus: dbt + Databricks | AWS Data Engineer</p>
 </div>
 
