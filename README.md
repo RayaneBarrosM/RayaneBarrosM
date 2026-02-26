@@ -1,12 +1,11 @@
 <div align="center">
 
-### 👩‍💻 Sobre mim
-<img src="https://media.tenor.com/12482122854321811975/[-EMBEDDED CONTENT-]" width="80" alt="flores e borboletas">
-Em transição para **Engenharia de Dados**, com background em desenvolvimento de software e certificação **AWS Cloud Practitioner**. Apaixonada por construir pipelines de dados eficientes e transformar dados brutos em insights valiosos.
-
-* 📍 São Paulo, Brasil
-* 🎓 Desenvolvimento de Software
-* 🎯 Próxima meta: AWS Data Engineer Certification
+<div align="center">
+  <h3>👩‍💻 Sobre mim</h3>
+  <img src="https://tenor.com/o2epYLh3MEt.gif" width="80" alt="flores e borboletas">
+  <p>Em transição para <strong>Engenharia de Dados</strong>, com background em desenvolvimento de software e certificação <strong>AWS Cloud Practitioner</strong>. Apaixonada por construir pipelines de dados eficientes e transformar dados brutos em insights valiosos.</p>
+  <p>📍 São Paulo, Brasil<br>🎓 Desenvolvimento de Software<br>🎯 Próxima meta: AWS Data Engineer Certification</p>
+</div>
 
 ---
 
@@ -29,7 +28,8 @@ Em transição para **Engenharia de Dados**, com background em desenvolvimento d
 
 ---
 
-### ✨ Tech Stack
+<div align="center">
+  <h2>✨ Tech Stack & Ferramentas</h2>### ✨ Tech Stack
 
 | 📌 Core | 📊 Data Engineering |
 | ![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-2C3E50?style=flat-square&logo=mysql) | ![dbt](https://img.shields.io/badge/dbt-2C3E50?style=flat-square&logo=dbt) ![Databricks](https://img.shields.io/badge/Databricks-2C3E50?style=flat-square&logo=databricks) |
@@ -37,7 +37,7 @@ Em transição para **Engenharia de Dados**, com background em desenvolvimento d
 | ☁️ Cloud & Infrastructure | 🔄 DevOps |
 | ![AWS](https://img.shields.io/badge/AWS-2C3E50?style=flat-square&logo=amazonaws) ![Docker](https://img.shields.io/badge/Docker-2C3E50?style=flat-square&logo=docker) | ![Git](https://img.shields.io/badge/Git-2C3E50?style=flat-square&logo=git) ![Actions](https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=flat-square&logo=githubactions) |
 
----
+</div>
 
 ### 📫 Let's Connect
 <p align="center">
