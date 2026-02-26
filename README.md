@@ -1,6 +1,9 @@
 <div align="center">
   <h1>✨ Rayane Barros ✨</h1>
   <p><strong>Data Engineer in the making</strong></p>
+  <td align="left" width="80">
+      <img src="[https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif](https://tenor.com/o2epYLh3MEt.gif)" width="80" alt="left">
+    </td>
   <p>2026 focus: dbt + Databricks | AWS Data Engineer</p>
 </div>
 
