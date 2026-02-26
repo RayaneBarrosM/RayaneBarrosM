@@ -1,6 +1,7 @@
 <div align="center">
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" alt="left" />
   <h1>✨ Rayane Barros ✨</h1>
-  <p><strong>Data Engineer in the making</strong></p>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" alt="right" />  <p><strong>Data Engineer in the making</strong></p>
   <p>2026 focus: dbt + Databricks | AWS Data Engineer</p>
 </div>
 
@@ -37,11 +38,9 @@ Em transição para **Engenharia de Dados**, com background em desenvolvimento d
 ### ✨ Tech Stack
 
 | 📌 Core | 📊 Data Engineering |
-| :--- | :--- |
 | ![Python](https://img.shields.io/badge/Python-2C3E50?style=flat-square&logo=python) ![SQL](https://img.shields.io/badge/SQL-2C3E50?style=flat-square&logo=mysql) | ![dbt](https://img.shields.io/badge/dbt-2C3E50?style=flat-square&logo=dbt) ![Databricks](https://img.shields.io/badge/Databricks-2C3E50?style=flat-square&logo=databricks) |
 
 | ☁️ Cloud & Infrastructure | 🔄 DevOps |
-| :--- | :--- |
 | ![AWS](https://img.shields.io/badge/AWS-2C3E50?style=flat-square&logo=amazonaws) ![Docker](https://img.shields.io/badge/Docker-2C3E50?style=flat-square&logo=docker) | ![Git](https://img.shields.io/badge/Git-2C3E50?style=flat-square&logo=git) ![Actions](https://img.shields.io/badge/GitHub%20Actions-2C3E50?style=flat-square&logo=githubactions) |
 
 ---
