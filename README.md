@@ -1,27 +1,14 @@
 <div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
-    <tr>
-      <td bgcolor="#F2E2CE" align="center" style="padding: 40px; border-radius: 20px;">
-        <h1 style="color: #2C3E50; margin: 0;">✨ Rayane Barros ✨</h1>
-        <p style="color: #5D6D7E; font-size: 1.2em; margin: 10px 0;"><strong>Data Engineer in the making</strong></p>
-        <p style="color: #5D6D7E; margin: 0;">2026 focus: dbt + Databricks | AWS Data Engineer</p>
-      </td>
-    </tr>
-  </table>
-
-  <br>
 
   <table width="100%" border="0" cellspacing="10" cellpadding="0">
     <tr>
       <td width="65%" bgcolor="#C7D9D9" style="padding: 30px; border-radius: 20px;" valign="top">
-        <h3 align="left" style="color: #2C3E50; margin-top: 0;">👩‍💻 Sobre mim</h3>
+        <h3 align="left" style="color: #2C3E50; margin-top: 0;">✨ Sobre mim ✨</h3>
         <p align="left" style="color: #2C3E50; line-height: 1.6;">
           Em transição para <strong>Engenharia de Dados</strong>, com background em desenvolvimento de software e certificação <strong>AWS Cloud Practitioner</strong>. Apaixonada por construir pipelines de dados eficientes.
         </p>
         <p align="left" style="color: #2C3E50; line-height: 1.6; margin-bottom: 0;">
-          📍 São Paulo, Brasil<br>
           🎓 Desenvolvimento de Software<br>
-          🎯 Próxima meta: AWS Data Engineer Certification
         </p>
       </td>
       <td width="35%" bgcolor="#F2E2CE" style="padding: 20px; border-radius: 20px;" align="center" valign="middle">
