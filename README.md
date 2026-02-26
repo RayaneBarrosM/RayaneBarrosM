@@ -1,15 +1,7 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/RayaneBarrosM/assets/main/nome-da-imagem.png" width="80" alt="flores azuis">
-  
-  <h1>✨ Rayane Barros ✨</h1>
-  <img src="https://media.tenor.com/12482122854321811975/[-EMBEDDED CONTENT-]" width="80" alt="flores e borboletas">
-  <p><strong>Data Engineer in the making</strong></p>
-  <p>2026 focus: dbt + Databricks | AWS Data Engineer</p>
-</div>
-
----
 
 ### 👩‍💻 Sobre mim
+<img src="https://media.tenor.com/12482122854321811975/[-EMBEDDED CONTENT-]" width="80" alt="flores e borboletas">
 Em transição para **Engenharia de Dados**, com background em desenvolvimento de software e certificação **AWS Cloud Practitioner**. Apaixonada por construir pipelines de dados eficientes e transformar dados brutos em insights valiosos.
 
 * 📍 São Paulo, Brasil
