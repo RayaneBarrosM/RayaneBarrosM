@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" alt="left" />
+<img src="https://www.kindpng.com/picc/m/13-133768_blue-flowers-watercolor-png-transparent-png.png" width="80" alt="flores azuis">
   <h1>✨ Rayane Barros ✨</h1>
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100" alt="right" />  <p><strong>Data Engineer in the making</strong></p>
   <p>2026 focus: dbt + Databricks | AWS Data Engineer</p>
