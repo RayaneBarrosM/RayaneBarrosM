@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/Git-2C3E50?style=for-the-badge&logo=git&logoColor=F2E2CE" />
     <img src="https://img.shields.io/badge/Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=F2E2CE" />
     <img src="https://img.shields.io/badge/ArgoCD-2C3E50?style=for-the-badge&logo=argcd&logoColor=C7D9D9" />
+    <img src="https://img.shields.io/badge/Nginx-2C3E50?style=for-the-badge&logo=nginx&logoColor=C7D9D9" />
     
   </p>
   <!-- BADGES DE APRENDIZADO CONTÍNUO -->
