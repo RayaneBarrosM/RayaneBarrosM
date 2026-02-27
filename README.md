@@ -26,9 +26,11 @@
   <!-- SEGUNDA LINHA - Cloud, Infra e DevOps -->
   <p>
     <img src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=amazonaws&logoColor=C7D9D9" />
+    <img src="https://img.shields.io/badge/Kubernets-2C3E50?style=for-the-badge&logo=kubernets&logoColor=F2E2CE" />
     <img src="https://img.shields.io/badge/Docker-2C3E50?style=for-the-badge&logo=docker&logoColor=C7D9D9" />
     <img src="https://img.shields.io/badge/Git-2C3E50?style=for-the-badge&logo=git&logoColor=F2E2CE" />
     <img src="https://img.shields.io/badge/Actions-2C3E50?style=for-the-badge&logo=githubactions&logoColor=F2E2CE" />
+    
   </p>
   <!-- BADGES DE APRENDIZADO CONTÍNUO -->
 <div align="center" style="margin: 40px 0;">
