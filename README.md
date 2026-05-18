@@ -50,7 +50,7 @@
 
   <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/rayane-barros-22a9622a5/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-2C3E50?style=for-the-badge&logo=linkedin&logoColor=C7D9D9" 
+    <img src="https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=C7D9D9"  
          alt="Linkedin"
          title="Meu Linkedin"/>
   </a>
@@ -62,7 +62,7 @@
   </a>
 <!-- Portifólio  -->
    <a href="https://rayanebarrosm.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Pen-2C3E50?style=for-the-badge&logo=pen&logoColor=C7D9D9" 
+  <img src="https://img.shields.io/badge/Portfólio-2C3E50?style=for-the-badge&logo=codepen&logoColor=C7D9D9" 
        alt="Portifólio"
        title="Portifólio"/>
   </a>
