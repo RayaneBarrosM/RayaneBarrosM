@@ -55,11 +55,18 @@
          title="Meu Linkedin"/>
   </a>
   <!-- GMail  -->
-  <a href="https://mail.google.com/mail/?view=cm&to=10raybarros@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=rayanebm.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-2C3E50?style=for-the-badge&logo=gmail&logoColor=C7D9D9" 
        alt="E-mail"
        title="Meu E-mail"/>
-</a>
+  </a>
+<!-- Portifólio  -->
+   <a href="https://rayanebarrosm.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Pen-2C3E50?style=for-the-badge&logo=pen&logoColor=C7D9D9" 
+       alt="Portifólio"
+       title="Portifólio"/>
+  </a>
+
 
 </div>
 </br>
